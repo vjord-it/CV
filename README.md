@@ -10,7 +10,7 @@
     #### **`Advanced Courses (MSc level):` Data Science, Neural Networks, Machine Learning, Reinforcement Learning, Deep Learning TensorFlow, Natural Language Processing, Optimization, Algorithms, Cloud and Grid Computing, Knowledge Representation & Reasoning, Knowledge Base, Data Structures Practicum (C++), and Algorithms Practicum (C++);**
     #### **Coursework -> `completed`; Credits -> `covered`; [GPA](https://github.com/vjord-it/CV/blob/master/certificates/TranscriptSofiaUniAI.pdf) -> `5.59` (2-min, 6-max); Thesis (frozen[^4]) & Diploma -> `pending`.**
 * **[Coursera+](http://coursera.org) - continuous training**
-* **[National Academy for Software Development (NASD)](http://nars.bg)[^5] - supplementary training, 2016**
+* **[National Academy for Software Development (NASD)](https://bg.linkedin.com/company/national-academy-for-software-development-nasd-)[^5] - supplementary training, 2016**
    
 * **One Man Army** 
 
