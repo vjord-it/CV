@@ -97,7 +97,7 @@
 |IBM ([cognitiveclass.ai](https://cognitiveclass.ai/)): Data Science/Big Data/DL/Scala/Python/Cloud|[Badges](https://www.youracclaim.com/users/vilimir-yordanov/badges)|
 
 
-### IV. [National Academy for Software Development (NASD)](http://nars.bg) Curriculum: 
+### IV. [National Academy for Software Development (NASD)](https://bg.linkedin.com/company/national-academy-for-software-development-nasd-) Curriculum: 
 |Professional Courses (individual training)|       |
 | :------------- |:-------------|
 |[C++ Basics](http://nars.bg/wp-content/uploads/2013/02/Introduction-to-programming-C-and-Cpp_Course-Program.pdf)`[re-cap]`|[C++ Advanced](http://nars.bg/wp-content/uploads/2013/12/Cpp_Advanced_Course-Program.pdf)`[68 hours]`|
