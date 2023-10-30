@@ -14,8 +14,8 @@
    
 * **One Man Army** 
 
-### I. [SoftUni](http://softuni.bg) Curriculum:
-
+### I. [SoftUni](http://softuni.bg) 
+#### Curriculum:
 ##### Legend (US curved grading): 1) high performance (>5.00 out of 6.00 (scale: 2-min, 6-max)) -> full course credits`[max/max]`+ certificate (link,...or under issuance); 2) re-take option open`[</max]` (proportional credits reduction: {33%,66%,100%}); 3) coming exam`[0/max]`; 4) electives, freely chosen, give some extra (limited amount of) credits to all modules. 
 
 #### 1) C# Web Developer track (major) `[150/150]`: credits -> `covered`, diploma -> `1 course to go..` 
@@ -76,11 +76,12 @@
 |[Python 3 Programming](https://softuni.bg/certificates/details/13010/4ec66d1d)`(Fundamentals)[4/4]`|[Machine Learning](https://softuni.bg/certificates/details/53315/24e4dc7e)`[6/6]`|
 |[Adobe Illustrator](https://softuni.bg/Certificates/Details/18533/20c09d4e)`[3/3]`|[Adobe Photoshop](https://creative.softuni.bg/certificates/details/911/a127605c)`[6/6]`|
 
-### II. [Sofia University](https://www.uni-sofia.bg/index.php/eng) Curriculum:
+### II. [Sofia University](https://www.uni-sofia.bg/index.php/eng) 
+#### Curriculum:
 ##### Data Science, Neural Networks, Machine Learning, Reinforcement Learning, Deep Learning TensorFlow, Natural Language Processing, Optimization, Algorithms, Cloud and Grid Computing, Knowledge Representation & Reasoning, Knowledge Base, Data Structures Practicum (C++), and Algorithms Practicum (C++);
 
-### III. [Coursera+](http://coursera.org) Curriculum: 
-
+### III. [Coursera+](http://coursera.org)
+#### Curriculum:
 |University/Course|       |   | |    
 |:------------- |:-------------|:-----|:-----|
 |University of California, San Diego:|[Algorithmic Toolbox](https://www.coursera.org/account/accomplishments/certificate/DBGCT3UBN58L)|[Data Structures](https://www.coursera.org/account/accomplishments/certificate/WG87KXAKX2L6)|[Algorithms on Strings](https://www.coursera.org/account/accomplishments/certificate/PSUQ7PQ983C5)
@@ -98,7 +99,7 @@
 
 
 ### IV. [National Academy for Software Development (NASD)](https://bg.linkedin.com/company/national-academy-for-software-development-nasd-) 
-Curriculum: 
+#### Curriculum: 
 |Professional Courses (individual training)|       |
 | :------------- |:-------------|
 |[C++ Basics](http://nars.bg/wp-content/uploads/2013/02/Introduction-to-programming-C-and-Cpp_Course-Program.pdf)`[re-cap]`|[C++ Advanced](http://nars.bg/wp-content/uploads/2013/12/Cpp_Advanced_Course-Program.pdf)`[68 hours]`|
