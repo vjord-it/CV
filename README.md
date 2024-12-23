@@ -35,7 +35,7 @@
 |:-------------------|:-------------------|:-------------------|:-------------------|
 |Python Advanced:|[Python Advanced](https://softuni.bg/certificates/details/114318/b56f0893)`[12/12]`|[Python OOP](https://softuni.bg/certificates/details/122583/3c2b4cf7)`[15/15]`
 |JavaScript Core:|[JS Fundamentals](https://softuni.bg/certificates/details/20695/9feec24e)`[9/9]`|[JS Advanced](https://softuni.bg/certificates/details/21911/a411ddcd)`[9/9]`|[JS Applications](https://softuni.bg/certificates/details/22571/24dd49e3)`[9/9]`|
-|Python Web:|[Python Web Basics](https://softuni.bg/certificates/details/91145/f2677fba)`[9/9]`|Django`[0/15]`|
+|Python Web:|[Python Web Basics](https://softuni.bg/certificates/details/91145/f2677fba)`[9/9]`|[Django](https://softuni.bg/certificates/details/234473/ef95575e)`[15/15]`|
 |Front-End:|[HTML & CSS](https://softuni.bg/certificates/details/147303/ccf789a3) `[12/12]`|
 
 #### 3) Java Web Developer track (major) `[150/150]`: credits -> `covered`, diploma -> `1 course to go..` 
