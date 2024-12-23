@@ -18,7 +18,24 @@
 #### Curriculum:
 ##### Legend (US curved grading): 1) high performance (>5.00 out of 6.00 (scale: 2-min, 6-max)) -> full course credits`[max/max]`+ certificate (link,...or under issuance); 2) re-take option open`[</max]` (proportional credits reduction: {33%,66%,100%}); 3) coming exam`[0/max]`; 4) electives, freely chosen, give some extra (limited amount of) credits to all modules. 
 
-#### 1) C# Web Developer track (major) `[150/150]`: credits -> `covered`, diploma -> `1 course to go..` 
+#### 1) Python Web Developer track (major) `[150/150]`: credits -> `covered`, coursework -> `completed`, diploma -> `under issuance!` 
+
+|Module/Course`[90/90]`|        |        |        |   
+|:-------------------|:-------------------|:-------------------|:-------------------|
+|Python Advanced:|[Python Advanced](https://softuni.bg/certificates/details/114318/b56f0893)`[12/12]`|[Python OOP](https://softuni.bg/certificates/details/122583/3c2b4cf7)`[15/15]`
+|JavaScript Core:|[JS Fundamentals](https://softuni.bg/certificates/details/20695/9feec24e)`[9/9]`|[JS Advanced](https://softuni.bg/certificates/details/21911/a411ddcd)`[9/9]`|[JS Applications](https://softuni.bg/certificates/details/22571/24dd49e3)`[9/9]`|
+|Python Web:|[Python Web Basics](https://softuni.bg/certificates/details/91145/f2677fba)`[9/9]`|[Django](https://softuni.bg/certificates/details/234473/ef95575e)`[15/15]`|
+|Front-End:|[HTML & CSS](https://softuni.bg/certificates/details/147303/ccf789a3) `[12/12]`|
+
+#### 2) JS Web Developer track (major) `[90/90]`: credits -> `covered`, coursework -> `completed`, diploma -> `under issuance!`
+
+|Module/Course`[68/70]`|       |       |        |   
+| :----------------|:----------------|:----------------|:----------------|
+|JavaScript Core:|[JS Fundamentals](https://softuni.bg/certificates/details/20695/9feec24e)`[9/9]`|[JS Advanced](https://softuni.bg/certificates/details/21911/a411ddcd)`[9/9]`|[JS Applications](https://softuni.bg/certificates/details/22571/24dd49e3)`[9/9]`|
+|JavaScript Web:|[JS Back-End](https://softuni.bg/certificates/details/109004/653000e7)`[15/15]`|[ReactJS](https://softuni.bg/certificates/details/57642/f47efbf7)`[8/8]`|Angular`[6/8]`|
+|Front-End:|[HTML & CSS](https://softuni.bg/certificates/details/147303/ccf789a3) `[12/12]`|
+
+#### 3) C# Web Developer track (major) `[150/150]`: credits -> `covered`, diploma -> `1 course to go..` 
  
 |Module/Course`[114/132]`|        |        |        |   
 |:-------------------|:-------------------|:-------------------|:-------------------|
@@ -29,16 +46,7 @@
 |C# Web:|[C# Web Basics](https://softuni.bg/certificates/details/126414/f64107ef)`[12/12]`|ASP.NET Core`[0/18]`|
 |Front-End:|[HTML & CSS](https://softuni.bg/certificates/details/147303/ccf789a3) `[12/12]`|
 
-#### 2) Python Web Developer track (major) `[150/150]`: credits -> `covered`, diploma -> `1 course to go..` 
-
-|Module/Course`[75/90]`|        |        |        |   
-|:-------------------|:-------------------|:-------------------|:-------------------|
-|Python Advanced:|[Python Advanced](https://softuni.bg/certificates/details/114318/b56f0893)`[12/12]`|[Python OOP](https://softuni.bg/certificates/details/122583/3c2b4cf7)`[15/15]`
-|JavaScript Core:|[JS Fundamentals](https://softuni.bg/certificates/details/20695/9feec24e)`[9/9]`|[JS Advanced](https://softuni.bg/certificates/details/21911/a411ddcd)`[9/9]`|[JS Applications](https://softuni.bg/certificates/details/22571/24dd49e3)`[9/9]`|
-|Python Web:|[Python Web Basics](https://softuni.bg/certificates/details/91145/f2677fba)`[9/9]`|[Django](https://softuni.bg/certificates/details/234473/ef95575e)`[15/15]`|
-|Front-End:|[HTML & CSS](https://softuni.bg/certificates/details/147303/ccf789a3) `[12/12]`|
-
-#### 3) Java Web Developer track (major) `[150/150]`: credits -> `covered`, diploma -> `1 course to go..` 
+#### 4) Java Web Developer track (major) `[150/150]`: credits -> `covered`, diploma -> `1 course to go..` 
 
 |Module/Course`[96/114]`|        |        |        |   
 |:-------------------|:-------------------|:-------------------|:-------------------|
@@ -46,14 +54,6 @@
 |Java DB:|[MySQL](https://softuni.bg/certificates/details/61461/5bcb7879)`[9/9]`|[Hibernate](https://softuni.bg/certificates/details/81938/9d4c0c7a)`[15/15]`|
 |JavaScript Core:|[JS Fundamentals](https://softuni.bg/certificates/details/20695/9feec24e)`[9/9]`|[JS Advanced](https://softuni.bg/certificates/details/21911/a411ddcd)`[9/9]`|[JS Applications](https://softuni.bg/certificates/details/22571/24dd49e3)`[9/9]`|
 |Java Web:|[Spring Fundamentals](https://softuni.bg/certificates/details/117500/7fbfa21d)`[12/12]`|Spring Advanced`[0/18]`|
-|Front-End:|[HTML & CSS](https://softuni.bg/certificates/details/147303/ccf789a3) `[12/12]`|
-
-#### 4) JS Web Developer track (major) `[90/90]`: credits -> `covered`, coursework -> `completed`, diploma -> `under issuance!`
-
-|Module/Course`[68/70]`|       |       |        |   
-| :----------------|:----------------|:----------------|:----------------|
-|JavaScript Core:|[JS Fundamentals](https://softuni.bg/certificates/details/20695/9feec24e)`[9/9]`|[JS Advanced](https://softuni.bg/certificates/details/21911/a411ddcd)`[9/9]`|[JS Applications](https://softuni.bg/certificates/details/22571/24dd49e3)`[9/9]`|
-|JavaScript Web:|[JS Back-End](https://softuni.bg/certificates/details/109004/653000e7)`[15/15]`|[ReactJS](https://softuni.bg/certificates/details/57642/f47efbf7)`[8/8]`|Angular`[6/8]`|
 |Front-End:|[HTML & CSS](https://softuni.bg/certificates/details/147303/ccf789a3) `[12/12]`|
 
 #### 5) C++ Developer mini track (major) `[21/21]`: credits -> `covered`, diploma -> `per-course certificates` (no separate diploma)
