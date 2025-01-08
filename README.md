@@ -110,7 +110,7 @@
 * Rust -> 1+ years of experience
 
 [^1]: The Software University is a professional academy (EU law accredited) and the major institution of producing software engineers for the presently booming traditional ([ref1](https://en.wikipedia.org/wiki/John_Vincent_Atanasoff), [ref2](https://en.wikipedia.org/wiki/Pravetz_computers), [ref3](http://stats.ioinformatics.org/countries/), [ref3a](https://www.imo-official.org/results.aspx)) IT sector in Bulgaria and beyond (an international leg forthcoming) via mass education.
-[^2]: All majors' material -> covered. Several web framework exams (project-based) -> on hold due to continuous industrial/academic projects synergies. Overall diploma -> optional, continuous taking of new elective courses.
+[^2]: All majors' material -> covered. Some web framework exams (project-based) -> on hold due to continuous industrial/academic projects synergies. Overall diploma -> optional, continuous taking of new elective courses.
 [^3]: Some courses were recognized from previous studies completed at Sofia University in the period 2004-2005.
 [^4]: Until a suitable industrial project appears.
 [^5]: NASD is a professional academy certified by the Ministry of Education specialized in offering tailor-made solutions in the IT education: in-house advanced corporate trainings, individual courses, small group seminars, etc.
