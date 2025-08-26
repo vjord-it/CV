@@ -32,7 +32,7 @@
 |Module/Course`[68/70]`|       |       |        |   
 | :----------------|:----------------|:----------------|:----------------|
 |JavaScript Core:|[JS Fundamentals](https://softuni.bg/certificates/details/20695/9feec24e)`[9/9]`|[JS Advanced](https://softuni.bg/certificates/details/21911/a411ddcd)`[9/9]`|[JS Applications](https://softuni.bg/certificates/details/22571/24dd49e3)`[9/9]`|
-|JavaScript Web:|[JS Back-End](https://softuni.bg/certificates/details/109004/653000e7)`[15/15]`|[ReactJS](https://softuni.bg/certificates/details/57642/f47efbf7)`[8/8]`|Angular`[6/8]`|
+|JavaScript Web:|[JS Back-End](https://softuni.bg/certificates/details/109004/653000e7)`[15/15]`|[ReactJS](https://softuni.bg/certificates/details/57642/f47efbf7)`[8/8]`|[Angular](https://softuni.bg/certificates/details/250134/3d438c96)`[8/8]`|
 |Front-End:|[HTML & CSS](https://softuni.bg/certificates/details/147303/ccf789a3) `[12/12]`|
 
 #### 3) C# Web Developer track (major) `[150/150]`: credits -> `covered`, diploma -> `1 course to go..` 
