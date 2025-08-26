@@ -29,7 +29,7 @@
 
 #### 2) JS Web Developer track (major) `[90/90]`: credits -> `covered`, coursework -> `completed`, [diploma](https://github.com/vjord-it/CV/blob/master/certificates/Diploma_for_Front_End_Developer_with_JavaScript_VY.jpeg) -> `granted`, full transcript (all majors) -> `under issuance`
 
-|Module/Course`[68/70]`|       |       |        |   
+|Module/Course`[70/70]`|       |       |        |   
 | :----------------|:----------------|:----------------|:----------------|
 |JavaScript Core:|[JS Fundamentals](https://softuni.bg/certificates/details/20695/9feec24e)`[9/9]`|[JS Advanced](https://softuni.bg/certificates/details/21911/a411ddcd)`[9/9]`|[JS Applications](https://softuni.bg/certificates/details/22571/24dd49e3)`[9/9]`|
 |JavaScript Web:|[JS Back-End](https://softuni.bg/certificates/details/109004/653000e7)`[15/15]`|[ReactJS](https://softuni.bg/certificates/details/57642/f47efbf7)`[8/8]`|[Angular](https://softuni.bg/certificates/details/250134/3d438c96)`[8/8]`|
