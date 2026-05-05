@@ -37,7 +37,7 @@
 
 #### 3) C# Web Developer track (major) `[150/150]`: credits -> `covered`, coursework -> `completed` 
  
-|Module/Course`[132/132]`|        |        |        |   
+|Module/Course`[127/132]`|        |        |        |   
 |:-------------------|:-------------------|:-------------------|:-------------------|
 |C# Fundamentals (pre-session):|[C# Basics](https://softuni.bg/certificates/details/9244/d302314c)`[6/6]`|[C# Fundamentals](https://softuni.bg/certificates/details/12098/d20a46d9)`[6/6]`| 
 |C# Advanced:|[C# Advanced](https://softuni.bg/certificates/details/61492/dcab2d3e)`[6/6]`|[C# OOP Basics](https://softuni.bg/certificates/details/21718/e401eebc)`[9/9]`|[C# OOP Advanced](https://softuni.bg/certificates/details/61769/4e4ead82)`[12/12]`|
