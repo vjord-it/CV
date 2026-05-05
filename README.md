@@ -5,7 +5,7 @@
 
 * **[Software University](https://softuni.bg)[^1] - Professional Diploma: Software Engineering, multi-major, focus on technologies (coursework: `2017-2023`, per-course certificates)** 
     #### **Tracks followed: `C# Web Developer (major);` `Java Web Developer (major);` `Python Web Developer (major);` `C++ Developer (major);` `JS Web Developer (major);` PHP Web Developer (minor)**; Electives (specialized courses + general IT topics)
-    #### **Active education[^2] -> `completed` (current: top 5%). Diploma -> `per-course certificates & completion of 3/5 majors with diplomas, full transcript (all majors) issuance pending.` Elective courses -> `open-ended` (continuously taking suitable newcomers)** 
+    #### **Active education[^2] -> `completed` (current: top 5%). Diploma -> `per-course certificates & completion of 4/5 majors with diplomas, full transcript (all majors) issuance pending.` Elective courses -> `open-ended` (continuously taking suitable newcomers)** 
 * **[Sofia University](https://www.fmi.uni-sofia.bg/en/artificial-intelligence) - `MSc Artificial Intelligence`, selective focus on courses for research support in `Finance` and `Financial Engineering` (coursework: `2020-2022` + `(2004-2005)`[^3])** 
     #### **`Advanced Courses (MSc level):` Data Science, Neural Networks, Machine Learning, Reinforcement Learning, Deep Learning TensorFlow, Natural Language Processing, Optimization, Algorithms, Cloud and Grid Computing, Knowledge Representation & Reasoning, Knowledge Base, Data Structures Practicum (C++), and Algorithms Practicum (C++);**
     #### **Coursework -> `completed`; Credits -> `covered`; [GPA](https://github.com/vjord-it/CV/blob/master/certificates/TranscriptSofiaUniAI.pdf) -> `5.59` (2-min, 6-max); Thesis (frozen[^4]) & Diploma -> `pending`.**
@@ -61,14 +61,6 @@
 |Module/Course`[21/21]`|        |        |        |   
 |:-------------------|:-------------------|:-------------------|:-------------------|
 |`C++:`|[C Fundamentals](https://softuni.bg/certificates/details/20696/f27ca358)`[3/3]`|[C++ Advanced](https://softuni.bg/certificates/details/136808/db15c963)`[9/9]`|[C++ OOP](https://softuni.bg/certificates/details/13120/beb61e2f)`[9/9]`|
-
-#### 6) PHP Web Developer mini track (minor) `[90/90]`: credits -> `covered`, diploma -> `1 course to go..` 
-
-|Module/Course`[45/66]`|        |       |        |      
-| :----------------|:----------------|:----------------|:----------------|
-|JavaScript Core:|[JS Fundamentals](https://softuni.bg/certificates/details/20695/9feec24e)`[9/9]`|[JS Advanced](https://softuni.bg/certificates/details/21911/a411ddcd)`[9/9]`|[JS Applications](https://softuni.bg/certificates/details/22571/24dd49e3)`[9/9]`|
-|PHP Web:|PHP Fundamentals`[6/9]`|PHP MVC Frameworks`[0/18]`|
-|Front-End:|[HTML & CSS](https://softuni.bg/certificates/details/147303/ccf789a3) `[12/12]`|
 
 |Elective Courses`[49/49]` |       |      |                 
 |:------------- |:-------------|:-------------|
