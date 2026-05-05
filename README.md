@@ -48,7 +48,7 @@
 
 #### 4) Java Web Developer track (major) `[150/150]`: credits -> `covered`, diploma -> `1 course to go..` 
 
-|Module/Course`[96/114]`|        |        |        |   
+|Module/Course`[91/114]`|        |        |        |   
 |:-------------------|:-------------------|:-------------------|:-------------------|
 |Java Advanced:|[Java Advanced](https://softuni.bg/certificates/details/24009/e633690a)`[6/6]`|Java OOP `[10/15]`
 |Java DB:|[MySQL](https://softuni.bg/certificates/details/61461/5bcb7879)`[9/9]`|[Hibernate](https://softuni.bg/certificates/details/81938/9d4c0c7a)`[15/15]`|
