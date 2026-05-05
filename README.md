@@ -43,7 +43,7 @@
 |C# Advanced:|[C# Advanced](https://softuni.bg/certificates/details/61492/dcab2d3e)`[6/6]`|[C# OOP Basics](https://softuni.bg/certificates/details/21718/e401eebc)`[9/9]`|[C# OOP Advanced](https://softuni.bg/certificates/details/61769/4e4ead82)`[12/12]`|
 |C# DB:|[DB Basics - MS SQL Server](https://softuni.bg/certificates/details/57473/8efa1b2f)`[9/9]`|DB Advanced - Entity Framework Core`[10/15]`|
 |JavaScript Core:|[JS Fundamentals](https://softuni.bg/certificates/details/20695/9feec24e)`[9/9]`|[JS Advanced](https://softuni.bg/certificates/details/21911/a411ddcd)`[9/9]`|[JS Applications](https://softuni.bg/certificates/details/22571/24dd49e3)`[9/9]`|
-|C# Web:|[C# Web Basics](https://softuni.bg/certificates/details/126414/f64107ef)`[12/12]`|[ASP.NET Core](https://softuni.bg/certificates/details/261174/517a67a3)`[18/18]`|
+|C# Web:|[C# Web Basics](https://softuni.bg/certificates/details/126414/f64107ef)`[12/12]`|[ASP.NET Advanced](https://softuni.bg/certificates/details/261174/517a67a3)`[18/18]`|
 |Front-End:|[HTML & CSS](https://softuni.bg/certificates/details/147303/ccf789a3) `[12/12]`|
 
 #### 4) Java Web Developer track (major) `[150/150]`: credits -> `covered`, diploma -> `1 course to go..` 
