@@ -46,7 +46,7 @@
 |C# Web:|[C# Web Basics](https://softuni.bg/certificates/details/126414/f64107ef)`[12/12]`|[ASP.NET Advanced](https://softuni.bg/certificates/details/261174/517a67a3)`[18/18]`|
 |Front-End:|[HTML & CSS](https://softuni.bg/certificates/details/147303/ccf789a3) `[12/12]`|
 
-#### 4) Java Web Developer track (major) `[150/150]`: credits -> `covered`, diploma -> `1 course to go..` 
+#### 4) Java Web Developer track (major) `[150/150]`: credits -> `covered`, coursework -> `completed`  
 
 |Module/Course`[109/114]`|        |        |        |   
 |:-------------------|:-------------------|:-------------------|:-------------------|
