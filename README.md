@@ -48,12 +48,12 @@
 
 #### 4) Java Web Developer track (major) `[150/150]`: credits -> `covered`, diploma -> `1 course to go..` 
 
-|Module/Course`[91/114]`|        |        |        |   
+|Module/Course`[109/114]`|        |        |        |   
 |:-------------------|:-------------------|:-------------------|:-------------------|
 |Java Advanced:|[Java Advanced](https://softuni.bg/certificates/details/24009/e633690a)`[6/6]`|Java OOP `[10/15]`
 |Java DB:|[MySQL](https://softuni.bg/certificates/details/61461/5bcb7879)`[9/9]`|[Hibernate](https://softuni.bg/certificates/details/81938/9d4c0c7a)`[15/15]`|
 |JavaScript Core:|[JS Fundamentals](https://softuni.bg/certificates/details/20695/9feec24e)`[9/9]`|[JS Advanced](https://softuni.bg/certificates/details/21911/a411ddcd)`[9/9]`|[JS Applications](https://softuni.bg/certificates/details/22571/24dd49e3)`[9/9]`|
-|Java Web:|[Spring Fundamentals](https://softuni.bg/certificates/details/117500/7fbfa21d)`[12/12]`|Spring Advanced`[0/18]`|
+|Java Web:|[Spring Fundamentals](https://softuni.bg/certificates/details/117500/7fbfa21d)`[12/12]`|[Spring Advanced](https://softuni.bg/certificates/details/264590/de632383)`[18/18]`|
 |Front-End:|[HTML & CSS](https://softuni.bg/certificates/details/147303/ccf789a3) `[12/12]`|
 
 #### 5) C++ Developer mini track (major) `[21/21]`: credits -> `covered`, diploma -> `per-course certificates` (no separate diploma)
@@ -97,11 +97,11 @@
 |[C++ Basics](http://nars.bg/wp-content/uploads/2013/02/Introduction-to-programming-C-and-Cpp_Course-Program.pdf)`[re-cap]`|[C++ Advanced](http://nars.bg/wp-content/uploads/2013/12/Cpp_Advanced_Course-Program.pdf)`[68 hours]`|
 
 ### V. OMA Curriculum:
-* Matlab -> 15+ years of experience
+* Matlab -> 20+ years of experience
 * Q/Kdb+ -> 2+ years of experience
 * Rust -> 1+ years of experience
 
-[^1]: The Software University is a professional academy (EU law accredited) and the major institution of producing software engineers for the presently booming traditional ([ref1](https://en.wikipedia.org/wiki/John_Vincent_Atanasoff), [ref2](https://en.wikipedia.org/wiki/Pravetz_computers), [ref3](http://stats.ioinformatics.org/countries/), [ref3a](https://www.imo-official.org/results.aspx)) IT sector in Bulgaria and beyond (an international leg forthcoming) via mass education.
+[^1]: The Software University is a professional academy (EU law accredited) and the major institution of producing software engineers for the presently booming traditional ([ref1](https://en.wikipedia.org/wiki/John_Vincent_Atanasoff), [ref2](https://en.wikipedia.org/wiki/Pravetz_computers), [ref3](http://stats.ioinformatics.org/countries/), [ref3a](https://www.imo-official.org/results/team/country/BGR/)) IT sector in Bulgaria and beyond (an international leg forthcoming) via mass education.
 [^2]: All majors' material -> covered. Some web framework exams (project-based) -> on hold due to continuous industrial/academic projects synergies. Overall diploma -> optional, continuous taking of new elective courses.
 [^3]: Some courses were recognized from previous studies completed at Sofia University in the period 2004-2005.
 [^4]: Until a suitable industrial project appears.
