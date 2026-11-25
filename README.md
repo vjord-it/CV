@@ -5,7 +5,7 @@
 
 * **[Software University](https://softuni.bg)[^1] - Professional Diploma: Software Engineering, multi-major, focus on technologies (coursework: `2017-2023`)** 
     #### **Tracks followed: `C# Web Developer (major);` `Java Web Developer (major);` `Python Web Developer (major);` `C++ Developer (major);` `JS Web Developer (major);`** Electives (specialized courses + general IT topics)
-    #### **Active education[^2] -> `completed` (current: top 5%). Diploma -> `per-course certificates & completion of 5 majors with diplomas[^6]` Elective courses -> `open-ended` (continuously taking suitable newcomers)** 
+    #### **Active education[^2] -> `completed` (current: top 5%). Diploma -> `per-course certificates & completion of 5 majors with diplomas` Elective courses -> `open-ended` (continuously taking suitable newcomers)** 
 * **[Sofia University](https://www.fmi.uni-sofia.bg/en/artificial-intelligence) - `MSc Artificial Intelligence`, selective focus on courses for research support in `Finance` and `Financial Engineering` (coursework: `2020-2022` + `(2004-2005)`[^3])** 
     #### **`Advanced Courses (MSc level):` Data Science, Neural Networks, Machine Learning, Reinforcement Learning, Deep Learning TensorFlow, Natural Language Processing, Optimization, Algorithms, Cloud and Grid Computing, Knowledge Representation & Reasoning, Knowledge Base, Data Structures Practicum (C++), and Algorithms Practicum (C++);**
     #### **Coursework -> `completed`; Credits -> `covered`; [GPA](https://github.com/vjord-it/CV/blob/master/certificates/TranscriptSofiaUniAI.pdf) -> `5.59` (2-min, 6-max); Thesis (frozen[^4]) & Diploma -> `pending`.**
@@ -48,7 +48,7 @@
 |Java Web:|[Spring Fundamentals](https://softuni.bg/certificates/details/117500/7fbfa21d)`[12/12]`|[Spring Advanced](https://softuni.bg/certificates/details/264590/de632383)`[18/18]`|
 |Front-End:|[HTML & CSS](https://softuni.bg/certificates/details/147303/ccf789a3) `[12/12]`|
 
-#### 4) JS Web Developer track (major) `[90/90]`, [diploma](https://softuni.bg/certificates/details/238023/e1f2f752) 
+#### 4) JS Web Developer track (major) `[90/90]`, [diploma](https://softuni.bg/certificates/details/238023/e1f2f752)[^6] 
 
 |Module/Course`[70/70]`|       |       |        |   
 | :----------------|:----------------|:----------------|:----------------|
@@ -106,4 +106,4 @@
 [^3]: Some courses were recognized from previous studies completed at Sofia University in the period 2004-2005.
 [^4]: Until a suitable industrial project appears.
 [^5]: NASD is a professional academy certified by the Ministry of Education specialized in offering tailor-made solutions in the IT education: in-house advanced corporate trainings, individual courses, small group seminars, etc.
-[^6]: Typos (under fixing after signal): 1) Java OOP credits are less, 2) C++ Programming course is missed
+[^6]: Typos (under fixing after signal): 1) Java OOP credits are less, 2) C++ Programming course is missed 
