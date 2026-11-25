@@ -5,18 +5,18 @@
 
 * **[Software University](https://softuni.bg)[^1] - Professional Diploma: Software Engineering, multi-major, focus on technologies (coursework: `2017-2023`)** 
     #### **Tracks followed: `C# Web Developer (major);` `Java Web Developer (major);` `Python Web Developer (major);` `C++ Developer (major);` `JS Web Developer (major);`** Electives (specialized courses + general IT topics)
-    #### **Active education[^2] -> `completed` (current: top 5%). Diploma -> `per-course certificates & completion of 5 majors with diplomas` Elective courses -> `open-ended` (continuously taking suitable newcomers)** 
-* **[Sofia University](https://www.fmi.uni-sofia.bg/en/artificial-intelligence) - `MSc Artificial Intelligence`, selective focus on courses for research support in `Finance` and `Financial Engineering` (coursework: `2020-2022` + `(2004-2005)`[^3])** 
+    #### **Active education -> `completed` (current: top 5%). Diploma -> `per-course certificates & completion of 5 majors with diplomas` Elective courses -> `open-ended` (continuously taking suitable newcomers)** 
+* **[Sofia University](https://www.fmi.uni-sofia.bg/en/artificial-intelligence) - `MSc Artificial Intelligence`, selective focus on courses for research support in `Finance` and `Financial Engineering` (coursework: `2020-2022` + `(2004-2005)`[^2])** 
     #### **`Advanced Courses (MSc level):` Data Science, Neural Networks, Machine Learning, Reinforcement Learning, Deep Learning TensorFlow, Natural Language Processing, Optimization, Algorithms, Cloud and Grid Computing, Knowledge Representation & Reasoning, Knowledge Base, Data Structures Practicum (C++), and Algorithms Practicum (C++);**
-    #### **Coursework -> `completed`; Credits -> `covered`; [GPA](https://github.com/vjord-it/CV/blob/master/certificates/TranscriptSofiaUniAI.pdf) -> `5.59` (2-min, 6-max); Thesis (frozen[^4]) & Diploma -> `pending`.**
+    #### **Coursework -> `completed`; Credits -> `covered`; [GPA](https://github.com/vjord-it/CV/blob/master/certificates/TranscriptSofiaUniAI.pdf) -> `5.59` (2-min, 6-max); Thesis (frozen[^3]) & Diploma -> `pending`.**
 * **[Coursera+](http://coursera.org) - continuous training**
-* **[National Academy for Software Development (NASD)](https://bg.linkedin.com/company/national-academy-for-software-development-nasd-)[^5] - supplementary training, 2016**
+* **[National Academy for Software Development (NASD)](https://bg.linkedin.com/company/national-academy-for-software-development-nasd-)[^4] - supplementary training, 2016**
    
 * **One Man Army** 
 
 ### I. [SoftUni](http://softuni.bg) 
 #### Curriculum:
-##### Legend (US curved grading): 1) high performance (>=5.00 out of 6.00 (scale: 2-min, 6-max)) -> full course credits`[max/max]`+ certificate (link); 2) lower performance (<5.00 out of 6.00) ->  less credits `[</max]` (proportional credits reduction: {33%,66%,100%}); 3) electives -> freely chosen, give some extra credits to all modules; 4) diploma[^6] issuance -> minimum total credits covered & all courses passed[^7]  
+##### Legend (US curved grading): 1) high performance (>=5.00 out of 6.00 (scale: 2-min, 6-max)) -> full course credits`[max/max]`+ certificate (link); 2) lower performance (<5.00 out of 6.00) ->  less credits `[</max]` (proportional credits reduction: {33%,66%,100%}); 3) electives -> freely chosen, give some extra credits to all modules; 4) diploma[^5] issuance -> minimum total credits covered & all courses passed[^6]  
 
 #### 1) Python Web Developer track (major) `[150/150]`, [diploma](https://softuni.bg/certificates/details/238047/9d289a03)
 
@@ -102,9 +102,8 @@
 * Rust -> 1+ years of experience
 
 [^1]: The Software University is a professional academy (EU law accredited) and the major institution of producing software engineers for the presently booming traditional ([ref1](https://en.wikipedia.org/wiki/John_Vincent_Atanasoff), [ref2](https://en.wikipedia.org/wiki/Pravetz_computers), [ref3](http://stats.ioinformatics.org/countries/), [ref3a](https://www.imo-official.org/results/team/country/BGR/)) IT sector in Bulgaria and beyond (an international leg forthcoming) via mass education.
-[^2]: All majors' material -> covered. Some web framework exams (project-based) -> on hold due to continuous industrial/academic projects synergies. Overall diploma -> optional, continuous taking of new elective courses.
-[^3]: Some courses were recognized from previous studies completed at Sofia University in the period 2004-2005.
-[^4]: Until a suitable industrial project appears.
-[^5]: NASD is a professional academy certified by the Ministry of Education specialized in offering tailor-made solutions in the IT education: in-house advanced corporate trainings, individual courses, small group seminars, etc.
-[^6]: Typos (under fixing after sent signal): 1) Java OOP credits are less, 2) C++ Programming (OOP) course is missed 
-[^7]: Graduation and the final framework exams were intentionally postponed so that specific concepts could be reinforced through practice.
+[^2]: Some courses were recognized from previous studies completed at Sofia University in the period 2004-2005.
+[^3]: Until a suitable industrial project appears.
+[^4]: NASD is a professional academy certified by the Ministry of Education specialized in offering tailor-made solutions in the IT education: in-house advanced corporate trainings, individual courses, small group seminars, etc.
+[^5]: Typos (under fixing after sent signal): 1) Java OOP credits are less, 2) C++ Programming (OOP) course is missed 
+[^6]: Graduation and the final framework exams were intentionally postponed so that specific concepts could be reinforced through practice.
