@@ -16,7 +16,7 @@
 
 ### I. [SoftUni](http://softuni.bg) 
 #### Curriculum:
-##### Legend (US curved grading): 1) high performance (>=5.00 out of 6.00 (scale: 2-min, 6-max)) -> full course credits`[max/max]`+ certificate (link); 2) lower performance (<5.00 out of 6.00 (scale: 2-min, 6-max)) -> not-full course credits `[</max]` (proportional credits reduction: {33%,66%,100%}); 3) electives, freely chosen, give some extra credits to all modules. 
+##### Legend (US curved grading): 1) high performance (>=5.00 out of 6.00 (scale: 2-min, 6-max)) -> full course credits`[max/max]`+ certificate (link); 2) lower performance (<5.00 out of 6.00) ->  less credits `[</max]` (proportional credits reduction: {33%,66%,100%}); 3) electives -> freely chosen, give some extra credits to all modules; 4) diploma[^6] issuance -> minimum total credits covered & all courses passed[^7]  
 
 #### 1) Python Web Developer track (major) `[150/150]`, [diploma](https://softuni.bg/certificates/details/238047/9d289a03)
 
@@ -48,7 +48,7 @@
 |Java Web:|[Spring Fundamentals](https://softuni.bg/certificates/details/117500/7fbfa21d)`[12/12]`|[Spring Advanced](https://softuni.bg/certificates/details/264590/de632383)`[18/18]`|
 |Front-End:|[HTML & CSS](https://softuni.bg/certificates/details/147303/ccf789a3) `[12/12]`|
 
-#### 4) JS Web Developer track (major) `[90/90]`, [diploma](https://softuni.bg/certificates/details/238023/e1f2f752)[^6] 
+#### 4) JS Web Developer track (major) `[90/90]`, [diploma](https://softuni.bg/certificates/details/238023/e1f2f752) 
 
 |Module/Course`[70/70]`|       |       |        |   
 | :----------------|:----------------|:----------------|:----------------|
@@ -106,4 +106,5 @@
 [^3]: Some courses were recognized from previous studies completed at Sofia University in the period 2004-2005.
 [^4]: Until a suitable industrial project appears.
 [^5]: NASD is a professional academy certified by the Ministry of Education specialized in offering tailor-made solutions in the IT education: in-house advanced corporate trainings, individual courses, small group seminars, etc.
-[^6]: Typos (under fixing after signal): 1) Java OOP credits are less, 2) C++ Programming course is missed 
+[^6]: Typos (under fixing after sent signal): 1) Java OOP credits are less, 2) C++ Programming (OOP) course is missed 
+[^7]: Graduation and the final framework exams were intentionally postponed so that specific concepts could be reinforced through practice.
